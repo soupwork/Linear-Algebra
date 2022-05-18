@@ -17,3 +17,7 @@ From the movie 'Outland'
 O'Neil (S.Connery) revealing to Dr. Lazarus (F.Sternhagen) why he took his marshall job (https://www.moviequotes.com/s-movie/outland/)
 
 Writing like this is not meant to be the way people learn math. This is the way I'm going to have a go at it. I believe that to do math well, a person needs to practice. There is a big difference between building a bridge and reading a book. I'm going to go through looking up what I know and think I know about matrices, from college algebra on up. I'll work out some exercises and share them (and where I found them of course!) I'll show where I mix things up and figure out where I went wrong. Teachers at the board don't like to make mistakes. They like to show how to work through a problem correctly, so as not to confuse the students. I know already that I dont' know, so I want to share how I get unlost.
+
+
+I'm going to be using a lot of sources. Even Wikipedia. I'll keep a list at the end. One of the books I just started reading is Linear Algebra: Theory, Intuition, Code by Michael X. Cohen. (https://leanpub.com/linear_algebra) also available on Amazon Kindle and bookshops. It uses Numpy and MATLAB examples, which is exactly what I wanted to do.
+Another good read for me was Introduction to Linear Algebra with NumPy by Soner Yıldırım. (https://towardsdatascience.com/introduction-to-linear-algebra-with-numpy-79adeb7bc060)
