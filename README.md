@@ -1,5 +1,5 @@
 # Linear-Algebra
-# The start of a book for the not-so-gifted
+# The start of a guide for the not-so-gifted
 Math topics using python,long-hand work, and other tools
 
 Introduction
